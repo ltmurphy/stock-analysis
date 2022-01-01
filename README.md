@@ -36,5 +36,5 @@ and 2018
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89947873/147859813-db6cea55-4dcb-40c3-ad76-6d9751eec28d.png)
 
 
-
 ## Summary
+There are many advantages, as well as disadvantages, when it comes to refactoring code. One of the disadvantages is in the diversity of coding possibilities. There are often many different ways to solve the same problem. These variations can not be compared without exhaustive testing and comparison. Don't forget the advantages. Refactoring code is an easy way to make it cleaner and easier to read which improves the overall design. Also, as we saw, refactoring increases the processing speed as well. This increases the programs ability to handle larger amounts of data as well as its overall usefullness. 
