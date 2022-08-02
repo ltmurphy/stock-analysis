@@ -1,7 +1,7 @@
 # Stock Analysis
 
 ## Overview
-The purpose of this analysis was to refactor the VBA code in order to optimize the performance. The previous iteration of the worksheet was designed using only two datasets and there were concerns about its ability to handle larger amounts of data. The refactored code should perform faster allowing for larger datasets.
+The purpose of this analysis was to optimize performance in VBA code. The previous iteration of the worksheet was designed using only two datasets and there were concerns about its ability to handle larger amounts of data. The refactored code should perform faster allowing for larger datasets.
 
 ## Results
 ### Stock Performance
